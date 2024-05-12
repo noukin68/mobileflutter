@@ -1,0 +1,1 @@
+ C:\\Users\\maren\\Desktop\\mobileflutter\\lastMobile\\.dart_tool\\flutter_build\\b6214b7c4e229bb76dbe3da995a7e2cc\\native_assets.yaml: 
